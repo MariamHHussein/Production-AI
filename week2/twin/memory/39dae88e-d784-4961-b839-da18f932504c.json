@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "hi",
+    "timestamp": "2026-05-23T16:17:04.754877"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi there! Thanks for stopping by my website. It's a pleasure to meet you. I'm Mariam\u2014feel free to take a look around, and if you have any questions about my work in AI engineering, my current projects, or how I approach building intelligent systems, I'd be happy to chat.",
+    "timestamp": "2026-05-23T16:17:04.754894"
+  }
+]

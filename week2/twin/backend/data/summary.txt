@@ -1,0 +1,8 @@
+Got it — here’s a cleaner and more accurate version based on that:
+
+I am an AI Engineer with 2 years of experience in AI engineering.
+My expertise includes computer vision, large language models (LLMs), and AI agents, along with prompt engineering, model integration, and building end-to-end AI-powered applications.
+
+Currently, I'm focused on developing LLM-based agents and computer vision systems, with an emphasis on building intelligent, autonomous workflows and combining vision models with LLM reasoning.
+
+My background includes working on applied AI projects involving image processing, vision-based models, and LLM-driven automation systems, from prototyping to deployment in real-world applications.
